@@ -1,0 +1,130 @@
+Launching 64 runs with 4 parallel workers...
+Finished homeostatic_energy1_h32_s0 in 372.1s
+[ 1/64] COMPLETED: homeostatic_energy1_h32_s0
+Finished homeostatic_energy1_h32_s3 in 375.3s
+[ 2/64] COMPLETED: homeostatic_energy1_h32_s3
+Finished homeostatic_energy1_h32_s1 in 379.2s
+[ 3/64] COMPLETED: homeostatic_energy1_h32_s1
+Finished homeostatic_energy1_h32_s2 in 384.3s
+[ 4/64] COMPLETED: homeostatic_energy1_h32_s2
+Finished homeostatic_energy1_h32_s5 in 402.3s
+[ 5/64] COMPLETED: homeostatic_energy1_h32_s5
+Finished homeostatic_energy1_h32_s7 in 391.2s
+[ 6/64] COMPLETED: homeostatic_energy1_h32_s7
+Finished homeostatic_energy1_h32_s4 in 412.1s
+[ 7/64] COMPLETED: homeostatic_energy1_h32_s4
+Finished homeostatic_energy1_h32_s6 in 434.0s
+[ 8/64] COMPLETED: homeostatic_energy1_h32_s6
+Finished homeostatic_energy1_h128_s1 in 472.7s
+[ 9/64] COMPLETED: homeostatic_energy1_h128_s1
+Finished homeostatic_energy1_h128_s3 in 537.4s
+[10/64] COMPLETED: homeostatic_energy1_h128_s3
+Finished homeostatic_energy1_h128_s0 in 596.1s
+[11/64] COMPLETED: homeostatic_energy1_h128_s0
+Finished homeostatic_energy1_h128_s2 in 590.1s
+[12/64] COMPLETED: homeostatic_energy1_h128_s2
+Finished homeostatic_energy1_h128_s4 in 471.0s
+[13/64] COMPLETED: homeostatic_energy1_h128_s4
+Finished homeostatic_energy1_h128_s5 in 377.3s
+[14/64] COMPLETED: homeostatic_energy1_h128_s5
+Finished homeostatic_energy1_h128_s7 in 447.0s
+[15/64] COMPLETED: homeostatic_energy1_h128_s7
+Finished homeostatic_energy1_h128_s6 in 553.6s
+[16/64] COMPLETED: homeostatic_energy1_h128_s6
+Finished homeostatic_energy0_h32_s1 in 248.2s
+[17/64] COMPLETED: homeostatic_energy0_h32_s1
+Finished homeostatic_energy0_h32_s0 in 291.8s
+[18/64] COMPLETED: homeostatic_energy0_h32_s0
+Finished homeostatic_energy0_h32_s2 in 309.3s
+[19/64] COMPLETED: homeostatic_energy0_h32_s2
+Finished homeostatic_energy0_h32_s3 in 309.3s
+[20/64] COMPLETED: homeostatic_energy0_h32_s3
+Finished homeostatic_energy0_h32_s5 in 285.4s
+[21/64] COMPLETED: homeostatic_energy0_h32_s5
+Finished homeostatic_energy0_h32_s4 in 351.6s
+[22/64] COMPLETED: homeostatic_energy0_h32_s4
+Finished homeostatic_energy0_h32_s6 in 320.2s
+[23/64] COMPLETED: homeostatic_energy0_h32_s6
+Finished homeostatic_energy0_h32_s7 in 289.0s
+[24/64] COMPLETED: homeostatic_energy0_h32_s7
+Finished homeostatic_energy0_h128_s0 in 484.3s
+[25/64] COMPLETED: homeostatic_energy0_h128_s0
+Finished homeostatic_energy0_h128_s1 in 619.9s
+[26/64] COMPLETED: homeostatic_energy0_h128_s1
+Finished homeostatic_energy0_h128_s3 in 433.8s
+[27/64] COMPLETED: homeostatic_energy0_h128_s3
+Finished homeostatic_energy0_h128_s2 in 547.1s
+[28/64] COMPLETED: homeostatic_energy0_h128_s2
+Finished homeostatic_energy0_h128_s4 in 407.4s
+[29/64] COMPLETED: homeostatic_energy0_h128_s4
+Finished homeostatic_energy0_h128_s6 in 399.0s
+[30/64] COMPLETED: homeostatic_energy0_h128_s6
+Finished homeostatic_energy0_h128_s5 in 509.8s
+[31/64] COMPLETED: homeostatic_energy0_h128_s5
+Finished homeostatic_energy0_h128_s7 in 475.8s
+[32/64] COMPLETED: homeostatic_energy0_h128_s7
+Finished fixed_energy1_h32_s1 in 240.4s
+[33/64] COMPLETED: fixed_energy1_h32_s1
+Finished fixed_energy1_h32_s0 in 440.2s
+[34/64] COMPLETED: fixed_energy1_h32_s0
+Finished fixed_energy1_h32_s2 in 280.1s
+[35/64] COMPLETED: fixed_energy1_h32_s2
+Finished fixed_energy1_h32_s3 in 265.9s
+[36/64] COMPLETED: fixed_energy1_h32_s3
+Finished fixed_energy1_h32_s4 in 246.0s
+[37/64] COMPLETED: fixed_energy1_h32_s4
+Finished fixed_energy1_h32_s7 in 238.3s
+[38/64] COMPLETED: fixed_energy1_h32_s7
+Finished fixed_energy1_h32_s6 in 333.6s
+[39/64] COMPLETED: fixed_energy1_h32_s6
+Finished fixed_energy1_h32_s5 in 457.3s
+[40/64] COMPLETED: fixed_energy1_h32_s5
+Finished fixed_energy1_h128_s0 in 552.7s
+[41/64] COMPLETED: fixed_energy1_h128_s0
+Finished fixed_energy1_h128_s1 in 478.2s
+[42/64] COMPLETED: fixed_energy1_h128_s1
+Finished fixed_energy1_h128_s2 in 426.1s
+[43/64] COMPLETED: fixed_energy1_h128_s2
+Finished fixed_energy1_h128_s3 in 434.8s
+[44/64] COMPLETED: fixed_energy1_h128_s3
+Finished fixed_energy1_h128_s6 in 392.2s
+[45/64] COMPLETED: fixed_energy1_h128_s6
+Finished fixed_energy1_h128_s7 in 411.3s
+[46/64] COMPLETED: fixed_energy1_h128_s7
+Finished fixed_energy1_h128_s5 in 502.2s
+[47/64] COMPLETED: fixed_energy1_h128_s5
+Finished fixed_energy1_h128_s4 in 698.4s
+[48/64] COMPLETED: fixed_energy1_h128_s4
+Finished fixed_energy0_h32_s0 in 241.7s
+[49/64] COMPLETED: fixed_energy0_h32_s0
+Finished fixed_energy0_h32_s1 in 244.2s
+[50/64] COMPLETED: fixed_energy0_h32_s1
+Finished fixed_energy0_h32_s2 in 341.2s
+[51/64] COMPLETED: fixed_energy0_h32_s2
+Finished fixed_energy0_h32_s3 in 241.3s
+[52/64] COMPLETED: fixed_energy0_h32_s3
+Finished fixed_energy0_h32_s4 in 221.4s
+[53/64] COMPLETED: fixed_energy0_h32_s4
+Finished fixed_energy0_h32_s5 in 303.5s
+[54/64] COMPLETED: fixed_energy0_h32_s5
+Finished fixed_energy0_h32_s6 in 259.4s
+[55/64] COMPLETED: fixed_energy0_h32_s6
+Finished fixed_energy0_h32_s7 in 429.6s
+[56/64] COMPLETED: fixed_energy0_h32_s7
+Finished fixed_energy0_h128_s0 in 441.4s
+[57/64] COMPLETED: fixed_energy0_h128_s0
+Finished fixed_energy0_h128_s1 in 397.7s
+[58/64] COMPLETED: fixed_energy0_h128_s1
+Finished fixed_energy0_h128_s2 in 457.8s
+[59/64] COMPLETED: fixed_energy0_h128_s2
+Finished fixed_energy0_h128_s4 in 391.7s
+[60/64] COMPLETED: fixed_energy0_h128_s4
+Finished fixed_energy0_h128_s5 in 411.9s
+[61/64] COMPLETED: fixed_energy0_h128_s5
+Finished fixed_energy0_h128_s3 in 678.6s
+[62/64] COMPLETED: fixed_energy0_h128_s3
+Finished fixed_energy0_h128_s6 in 429.9s
+[63/64] COMPLETED: fixed_energy0_h128_s6
+Finished fixed_energy0_h128_s7 in 314.5s
+[64/64] COMPLETED: fixed_energy0_h128_s7
+All 64 runs complete!
